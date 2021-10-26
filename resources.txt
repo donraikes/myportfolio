@@ -1,3 +1,8 @@
 Build a Simple Beginner App with Node, Bootstrap and MongoDB - SitePoint
 https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/
 
+The ultimate express tutorial:
+https://masteringbackend.com/posts/expressjs-5-tutorial-the-ultimate-guide/
+
+How to use postman:
+https://www.guru99.com/postman-tutorial.html
